@@ -1,0 +1,9 @@
+env_ia/
+Library/
+Temp/
+Logs/
+Build/
+UserSettings/
+*.meta
+results/
+.vs/
